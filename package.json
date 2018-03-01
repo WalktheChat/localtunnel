@@ -1,6 +1,6 @@
 {
   "author": "Roman Shtylman <shtylman@gmail.com>",
-  "name": "localtunnel",
+  "name": "@walkthechat/localtunnel",
   "description": "expose localhost to the world",
   "version": "1.8.3",
   "license": "MIT",
